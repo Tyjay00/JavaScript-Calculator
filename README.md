@@ -12,3 +12,5 @@ Basic Operations: Addition, subtraction, multiplication, division, and decimal i
 Clear & Delete: AC to reset, DEL to remove the last character.
 
 Error Handling: Displays Error for malformed expressions.
+
+Tyrone Joel
